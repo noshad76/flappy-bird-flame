@@ -1,1 +1,1 @@
-![doc_2024-06-28_13-10-37](https://github.com/noshad76/flappy-bird-flame/assets/118007681/a22c6bb1-90e7-4451-8048-a1b26472bd92)
+![doc_2024-06-28_15-10-41](https://github.com/noshad76/flappy-bird-flame/assets/118007681/8e38f290-46aa-42ef-85db-cb76e509ec01)
